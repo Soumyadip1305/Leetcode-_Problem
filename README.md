@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -70,4 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Array
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
