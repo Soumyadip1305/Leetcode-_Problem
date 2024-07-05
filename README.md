@@ -92,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3469-maximum-height-of-a-triangle](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/3469-maximum-height-of-a-triangle) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
