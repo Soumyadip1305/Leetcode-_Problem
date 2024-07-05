@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3469-maximum-height-of-a-triangle](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/3469-maximum-height-of-a-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3469-maximum-height-of-a-triangle](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/3469-maximum-height-of-a-triangle) |
 <!---LeetCode Topics End-->
