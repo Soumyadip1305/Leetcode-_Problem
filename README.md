@@ -62,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0112-path-sum) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0112-path-sum) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -122,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1720-crawler-log-folder) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
