@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/2379-maximum-total-importance-of-roads) |
+| [2846-robot-collisions](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/2846-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1720-crawler-log-folder](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1803-average-waiting-time) |
+| [2846-robot-collisions](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/2846-robot-collisions) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/3469-maximum-height-of-a-triangle) |
 ## Hash Table
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1803-average-waiting-time) |
+| [2846-robot-collisions](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/2846-robot-collisions) |
 ## String
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/2846-robot-collisions) |
 ## Tree
 |  |
 | ------- |
