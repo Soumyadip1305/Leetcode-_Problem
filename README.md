@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0070-climbing-stairs) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1303-minimum-moves-to-reach-target-score) |
 ## Dynamic Programming
 |  |
 | ------- |
