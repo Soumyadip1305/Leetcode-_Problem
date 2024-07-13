@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1720-crawler-log-folder](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1803-average-waiting-time) |
+| [2262-solving-questions-with-brainpower](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/2262-solving-questions-with-brainpower) |
 | [2846-robot-collisions](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/2846-robot-collisions) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/3469-maximum-height-of-a-triangle) |
 ## Hash Table
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/0198-house-robber) |
+| [2262-solving-questions-with-brainpower](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/2262-solving-questions-with-brainpower) |
 ## Memoization
 |  |
 | ------- |
