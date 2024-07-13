@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1803-average-waiting-time) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2846-robot-collisions](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/2846-robot-collisions) |
 ## String
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Soumyadip1305/Leetcode-_Problem/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Stack
 |  |
 | ------- |
